@@ -1,0 +1,29 @@
+# Core dependencies
+fastapi==0.98.0
+uvicorn==0.22.0
+streamlit==1.26.0
+streamlit-autorefresh==0.0.1
+pydantic==1.10.9
+requests==2.31.0
+python-multipart==0.0.6
+typing-extensions==4.7.1
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+beautifulsoup4==4.12.2
+plotly==5.15.0
+
+# NLP and ML
+transformers==4.31.0
+torch==2.0.1
+nltk==3.8.1
+
+# Text-to-Speech
+gTTS==2.3.2
+
+# Web scraping
+requests==2.31.0
+
+# Testing
+pytest==7.4.0
